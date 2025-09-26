@@ -37,5 +37,5 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 # ☕ Stay Connected
 Feel free to connect with me on the following platforms:
 
-#🌟About me
+# 🌟About me
 👋 Hi there!, I'm Ben Okezie. I'm a Data and Automation Professional.
